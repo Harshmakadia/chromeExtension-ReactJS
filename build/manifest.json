@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  
+    "name": "Quotify",
+    "description": "This extension shows you random quotes",
+    "version": "1.0",
+  
+    "browser_action": {
+      "default_icon": "logo_small.png",
+      "default_popup": "index.html"
+  },
+  "short_name": "React App",
+  "name": "Quotify"
+}
